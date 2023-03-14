@@ -20,8 +20,6 @@
 
 <span>
 <a>
-<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=disheg&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-</a>
 <a href="https://github.com/disheg/github-readme-stats">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=disheg&layout=compact&hide_border=true" />
 </a>
